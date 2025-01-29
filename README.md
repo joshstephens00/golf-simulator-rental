@@ -1,7 +1,4 @@
-<!DOCTYPE html>
 <html lang="en">
-
-</head>
     <header>
         <h1>Golf Simulator Rental</h1>
     </header>
