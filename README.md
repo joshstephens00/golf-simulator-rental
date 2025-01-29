@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-    <title>Golf Simulator Rental</title>
+    # Golf Simulator Rental
     <style>
         body {
             font-family: Arial, sans-serif;
