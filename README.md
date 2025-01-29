@@ -1,45 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-    # Golf Simulator Rental
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f5f5f5;
-            text-align: center;
-        }
-        header {
-            background-color: #2c3e50;
-            color: white;
-            padding: 20px;
-            font-size: 24px;
-        }
-        .container {
-            padding: 20px;
-        }
-        .pricing {
-            background-color: white;
-            padding: 20px;
-            margin: 20px auto;
-            max-width: 600px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        .contact {
-            margin-top: 30px;
-            padding: 20px;
-            background-color: #34495e;
-            color: white;
-        }
-        button {
-            background-color: #e67e22;
-            color: white;
-            padding: 10px 20px;
-            border: none;
-            cursor: pointer;
-            font-size: 18px;
-        }
-    </style>
+
 </head>
 <body>
     <header>
