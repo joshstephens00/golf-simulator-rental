@@ -19,5 +19,4 @@
         <p>Email: info@golfrental.com</p>
         <p>Phone: (123) 456-7890</p>
     </div>
-</body>
 </html>
