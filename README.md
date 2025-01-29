@@ -1,5 +1,4 @@
 <html lang="en">
-theme: jekyll-theme-minimal
     <header>
         <h1>Golf Simulator Rental</h1>
     </header>
