@@ -3,7 +3,7 @@
 
 </head>
     <header>
-        Golf Simulator Rental
+        <h1>Golf Simulator Rental</h1>
     </header>
     <div class="container">
         <h2>Experience Golf Anytime, Anywhere!</h2>
